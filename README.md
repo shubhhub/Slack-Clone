@@ -2,6 +2,7 @@
 Link: https://slack-clone-a410a.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was a react learning project
 
 ## Available Scripts
 
